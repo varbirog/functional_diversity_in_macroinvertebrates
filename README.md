@@ -1,11 +1,11 @@
 # Revealing Functional Responses of Macroinvertebrates in Intermittent Hungarian Lowland Streams
 
-Pál Bodaa, 1, Júlia Szelesa,b *1, Áron Lukácsa, Viktória B-Béresa, Tamás Bozókia, Judit Feketea, Márk Ficsórc, Alex Sándor Nagyd, Gábor Várbíróa
+Pál Bodaa, <sup>1,a</sup>, Júlia Szelesa,<sup>1,b,*</sup>, Áron Lukácsa, Viktória B-Béresa, Tamás Bozókia, Judit Feketea, Márk Ficsórc, Alex Sándor Nagyd, Gábor Várbíróa
 1 These authors contributed equally to this work.
-aHUN-REN Centre for Ecological Research, Institute of Aquatic Ecology, Department of Tisza Research, 18/c Bem tér, H-4026 Debrecen, Hungary
-bPál Juhász-Nagy Doctoral School of Biology and Environmental Sciences, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary
-cDepartment of Public Health, Laboratory for Environmental Protection, Government Office of Borsod-Abaúj-Zemplén County, Mindszent tér 3., H-3530 Miskolc, Hungary
-dDepartment of Hydrobiology, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary
+a HUN-REN Centre for Ecological Research, Institute of Aquatic Ecology, Department of Tisza Research, 18/c Bem tér, H-4026 Debrecen, Hungary
+b Pál Juhász-Nagy Doctoral School of Biology and Environmental Sciences, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary
+c Department of Public Health, Laboratory for Environmental Protection, Government Office of Borsod-Abaúj-Zemplén County, Mindszent tér 3., H-3530 Miskolc, Hungary
+d Department of Hydrobiology, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary
 *Corresponding author: julia.szeles@ecolres.hu
 
 ORCID
