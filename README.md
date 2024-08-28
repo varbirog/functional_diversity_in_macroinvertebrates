@@ -1,13 +1,13 @@
 # Hidden results of functional diversity in macroinvertebrates: Trait-groups specific response to flow intermittency in lowland streams
 
-Pál Boda, <sup>1,a</sup>, Júlia Szeles,<sup>1,a,b,*</sup>, Áron Lukács<sup>a</sup>, Viktória B-Béres<sup>a</sup>, Tamás Bozóki<sup>a</sup>, Judit Fekete<sup>a</sup>, Márk Ficsór<sup>c</sup>, Alex Sándor Nagy<sup>d</sup>, Gábor Várbíró<sup>a</sup>
-<sup>1</sup> These authors contributed equally to this work.
-<sup>a</sup> HUN-REN Centre for Ecological Research, Institute of Aquatic Ecology, Department of Tisza Research, 18/c Bem tér, H-4026 Debrecen, Hungary
-<sup>b</sup> Pál Juhász-Nagy Doctoral School of Biology and Environmental Sciences, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary
-<sup>c</sup> Department of Public Health, Laboratory for Environmental Protection, Government Office of Borsod-Abaúj-Zemplén County, Mindszent tér 3., H-3530 Miskolc, Hungary
-<sup>d</sup> Department of Hydrobiology, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary
-<sup>*</sup> Corresponding author: julia.szeles@ecolres.hu
-
+Pál Boda, <sup>1,a</sup>, Júlia Szeles,<sup>1,a,b,*</sup>, Áron Lukács<sup>a</sup>, Viktória B-Béres<sup>a</sup>, Tamás Bozóki<sup>a</sup>, Judit Fekete<sup>a</sup>, Márk Ficsór<sup>c</sup>, Alex Sándor Nagy<sup>d</sup>, Gábor Várbíró<sup>a</sup>  
+<sup>1</sup> These authors contributed equally to this work.  
+<sup>a</sup> HUN-REN Centre for Ecological Research, Institute of Aquatic Ecology, Department of Tisza Research, 18/c Bem tér, H-4026 Debrecen, Hungary  
+<sup>b</sup> Pál Juhász-Nagy Doctoral School of Biology and Environmental Sciences, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary  
+<sup>c</sup> Department of Public Health, Laboratory for Environmental Protection, Government Office of Borsod-Abaúj-Zemplén County, Mindszent tér 3., H-3530 Miskolc, Hungary  
+<sup>d</sup> Department of Hydrobiology, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary  
+<sup>*</sup> Corresponding author: julia.szeles@ecolres.hu  
+  
 ORCID
 Júlia Szeles - 0009-0004-9571-6200
 Áron Lukács - 0000-0003-3617-2843
