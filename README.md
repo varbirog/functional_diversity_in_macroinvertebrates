@@ -8,15 +8,16 @@ Pál Boda, <sup>1,a</sup>, Júlia Szeles,<sup>1,a,b,*</sup>, Áron Lukács<sup>a
 <sup>d</sup> Department of Hydrobiology, University of Debrecen, Debrecen, Egyetem tér 1, H-4032 Hungary  
 <sup>*</sup> Corresponding author: julia.szeles@ecolres.hu  
   
-ORCID
-Júlia Szeles - 0009-0004-9571-6200
-Áron Lukács - 0000-0003-3617-2843
-Viktória B-Béres - 0000-0002-9632-2703
-Tamás Bozóki - 0009-0003-7510-3936
-Judit Fekete-0000-0001-5623-869X
-Márk Ficsór-0000-0002-9536-1858
-Gábor Várbíró - 0000-0001-5907-3472
-Pál Boda - 0000-0002-1825-5744
+ORCID  
+- [Júlia Szeles](https://orcid.org/0009-0004-9571-6200) - 0009-0004-9571-6200
+- [Áron Lukács](https://orcid.org/0000-0003-3617-2843) - 0000-0003-3617-2843
+- [Viktória B-Béres](https://orcid.org/0000-0002-9632-2703) - 0000-0002-9632-2703
+- [Tamás Bozóki](https://orcid.org/0009-0003-7510-3936) - 0009-0003-7510-3936
+- [Judit Fekete](https://orcid.org/0000-0001-5623-869X) - 0000-0001-5623-869X
+- [Márk Ficsór](https://orcid.org/0000-0002-9536-1858) - 0000-0002-9536-1858
+- [Gábor Várbíró](https://orcid.org/0000-0001-5907-3472) - 0000-0001-5907-3472
+- [Pál Boda](https://orcid.org/0000-0002-1825-5744) - 0000-0002-1825-5744
+
 
 # Abstract
 As global flow intermittency increases, understanding how macroinvertebrates respond at a functional level in streams becomes crucial for effective water management. This study investigates the functional response of macroinvertebrates to flow intermittency in Hungarian lowland streams over a 10-month period, comparing intermittent and perennial streams across the entire community, trait groups, and trait states. We aimed to demonstrate differences in functional diversity using metrics such as functional richness, evenness, divergence, dispersion, and Rao's quadratic entropy. For trait groups, we focused on both response and stable traits, anticipating greater differences in response traits. Additionally, we identified which trait states, as indicated by community-weighted means, contribute significantly to variations between streams. Our findings indicate that functional diversity in intermittent streams is generally lower or equivalent to that in perennial streams, suggesting disparities in functional trait composition. Significant differences were observed within trait groups, indicating specific responses of trait groups to intermittency. We identified resilience trait states—including current velocity, reproduction, respiration, female length, locomotion, substrate relation, aquatic stages, and resistance forms—that contributed to these differences. The three-level analysis revealed a hidden relationship: differences at the state level do not consistently manifest at the trait group or whole community levels. Investigating functional changes at the trait group or trait state level can serve as an early indicator of community shifts. Incorporating trait groups as indices into assessment frameworks could facilitate early detection of functional changes during bioassessment. We recommend considering trait groups when evaluating functional responses to flow intermittency in future studies.
