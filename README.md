@@ -26,3 +26,12 @@ As global flow intermittency increases, understanding how macroinvertebrates res
 
 ## Citation
 Boda, P., Szeles, J., Lukács, Á., B-Béres, V., Bozóki, T., Fekete, J., … Várbíró, G. (2024). Hidden results of functional diversity in macroinvertebrates: Trait-groups specific response to flow intermittency in lowland streams. Inland Waters, 1–36.[https://doi.org/10.1080/20442041.2024.2386208](https://doi.org/10.1080/20442041.2024.2386208)
+
+### Files description 
+           1. numb.csv   56x118 matrix of sites x genus abundances (h:site code;type:flow type [int-intermittent,per-permanent];	phase:flow phase
+![kép](https://github.com/user-attachments/assets/9093f352-9742-489f-ba57-496a29bbd191)
+                
+           2. standtraittab.csv   115 x 101 genus x trait states matrix
+![kép](https://github.com/user-attachments/assets/45deaab5-d06f-4a8d-bbda-0267ed869c04)
+
+
